@@ -25,5 +25,7 @@ How do the diagrams help you visualize the branch structure?
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	THe result of merging two branches results in a new commit on the existing branch, which is merigng of latest commit on the branches and the original file before creating a branch.It helps in keeping a mental track of files.
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
